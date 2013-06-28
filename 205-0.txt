@@ -1,4 +1,28 @@
-﻿The Project Gutenberg EBook of Walden, and On The Duty Of Civil
+﻿This is a modified version of Walden, and On The Duty Of Civil Disobedience,
+by Henry David Thoreau.
+
+The modified version is a collaborative writing project with the new
+title
+
+The Blair Walden Project
+
+This project is maintained by Allen B. Downey and stored at
+https://github.com/AllenDowney/blair-walden-project
+
+It is used as a training exercise in this book:
+https://github.com/AllenDowney/progit
+
+This modified version is available under the terms of the 
+Project Gutenberg License included at the end of the book
+or online at www.gutenberg.org
+
+The following is the header from the original text, followed by
+the text of the book.
+
+-------------
+
+
+The Project Gutenberg EBook of Walden, and On The Duty Of Civil
 Disobedience, by Henry David Thoreau
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -33,7 +57,7 @@ Produced by Judith Boss, and David Widger
 
 
 
-WALDEN,
+THE BLAIR WALDEN PROJECT,
 
 and
 
@@ -91,9 +115,25 @@ Conclusion
 
 
 
-WALDEN
+THE BLAIR WALDEN PROJECT
+
+Tagline
+
+In 1845 Henry David Thoreau went to live in the woods... a year later
+his journal was found.
 
 
+Preface
+
+Ralph Waldo Emerson had heard the stories about the woods around
+Walden Pond, so when his good friend asked for permission to build a
+cabin on Emerson's land, miles* from the nearest outpost of civilization,
+he was afraid to say yes.
+
+But it's not easy to say no to Henry David Thoreau.  
+
+
+* About two miles.
 
 
 Economy
