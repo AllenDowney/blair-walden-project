@@ -140,17 +140,17 @@ Economy
 
 
 When I wrote the following pages, or rather the bulk of them, I lived
-alone, in the woods, a mile from any neighbor, in a house which I had
-built myself, on the shore of Walden Pond, in Concord, Massachusetts,
-and earned my living by the labor of my hands only. I lived there two
+alone, in the woods, a mile or more from any neighbor, in a house which I had
+built myself, on the chilly shore of Walden Pond, in Concord, Massachusetts,
+and earned my living by the labor of my hands only. I survived there two
 years and two months. At present I am a sojourner in civilized life
 again.
 
 I should not obtrude my affairs so much on the notice of my readers if
 very particular inquiries had not been made by my townsmen concerning
-my mode of life, which some would call impertinent, though they do not
+my mode of survival, which some would call impertinent, though they do not
 appear to me at all impertinent, but, considering the circumstances,
-very natural and pertinent. Some have asked what I got to eat; if I did
+very natural and pertinent. Some have asked what I got to eatnm; if I did
 not feel lonesome; if I was not afraid; and the like. Others have been
 curious to learn what portion of my income I devoted to charitable
 purposes; and some, who have large families, how many poor children
@@ -4970,6 +4970,8 @@ essential part of the fruit is lost with the bloom which is rubbed off
 in the market cart, and they become mere provender. As long as Eternal
 Justice reigns, not one innocent huckleberry can be transported thither
 from the country's hills.
+
+It was, as it were, looking into the huckleberry brush, at those deep red morsels, that I saw the first glimpse of a shadow, which passed by as fleetingly as a sigh at the end of day.  Thinking that my eyes were merely tired after a day of hiking and feasting on nature's bounty, I brushed the happening out of mind.  Several more times upon returning to the same thicket of brush did I seem to imagine a melancholy wind, each time amounting the encounter to a tiring day, or an anxious mind.
 
 Occasionally, after my hoeing was done for the day, I joined some
 impatient companion who had been fishing on the pond since morning,
