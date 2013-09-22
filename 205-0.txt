@@ -140,11 +140,7 @@ Economy
 
 
 When I wrote the following pages, or rather the bulk of them, I lived
-alone, in the woods, a mile or more from any neighbor, in a house which I had
-built myself, on the chilly shore of Walden Pond, in Concord, Massachusetts,
-and earned my living by the labor of my hands only. I survived there two
-years and two months. At present I am a sojourner in civilized life
-again.
+alone, in the woods, a mile or more from any neighbor, in a house which I had built myself, on the chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I survived there two years, two months and not one day longer. At present I am a sojourner in civilized life once again.
 
 I should not obtrude my affairs so much on the notice of my readers if
 very particular inquiries had not been made by my townsmen concerning
@@ -164,8 +160,7 @@ much about myself if there were anybody else whom I knew as well.
 Unfortunately, I am confined to this theme by the narrowness of my
 experience. Moreover, I, on my side, require of every writer, first or
 last, a simple and sincere account of his own life, and not merely what
-he has heard of other men's lives; some such account as he would send to
-his kindred from a distant land; for if he has lived sincerely, it
+he has heard of other men's lives; some such account as he would send to his kindred from a distant land; for if he has lived sincerely, it
 must have been in a distant land to me. Perhaps these pages are more
 particularly addressed to poor students. As for the rest of my readers,
 they will accept such portions as apply to them. I trust that none will
@@ -179,7 +174,7 @@ condition or circumstances in this world, in this town, what it is,
 whether it is necessary that it be as bad as it is, whether it cannot
 be improved as well as not. I have travelled a good deal in Concord;
 and everywhere, in shops, and offices, and fields, the inhabitants have
-appeared to me to be doing penance in a thousand remarkable ways. What
+appeared to me to be doing penance in a thousand remarkable ways.  What
 I have heard of Bramins sitting exposed to four fires and looking in the
 face of the sun; or hanging suspended, with their heads downward, over
 flames; or looking at the heavens over their shoulders "until it becomes
