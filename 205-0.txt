@@ -1754,6 +1754,7 @@ what was on hand at the last date--was
     One pumpkin..............  0.06
     One watermelon...........  0.02
     Salt.....................  0.03
+    BlackPepper..............  0.77
 
 Yes, I did eat $8.74, all told; but I should not thus unblushingly
 publish my guilt, if I did not know that most of my readers were equally
