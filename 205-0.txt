@@ -140,7 +140,7 @@ Economy
 
 
 When I wrote the following pages, or rather the bulk of them, I lived
-alone, in the woods, a mile or more from any neighbor, in a house which I had built myself, on the damp and chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I struggled to survive there two years, two months and not one day longer. At present I am a sojourner in civilized life once again.
+alone, in the woods, a kilometer (mile if you really insist on using that arcane system of measurement) or more from any neighbor, in a house which I had built myself, on the damp and chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I struggled to survive there two years, two months and not one day longer. At present I am a sojourner in civilized life once again.
 
 I should not obtrude my affairs so much on the notice of my readers if
 very particular inquiries had not been made by my townsmen concerning
@@ -165,7 +165,7 @@ must have been in a distant land to me. Perhaps these pages are more
 particularly addressed to poor students. As for the rest of my readers,
 they will accept such portions as apply to them. I trust that none will
 stretch the seams in putting on the coat, for it may do good service to
-him whom it fits.
+him whom it fits. I like pie.
 
 I would fain say something, not so much concerning the Chinese and
 Sandwich Islanders as you who read these pages, who are said to live
