@@ -7,4 +7,4 @@ This repo is the home of a collaborative writing project, a mash-up of Walden an
 
 The real reason for this project is to allow people learning to use Git to fork a repo, modify it, and generate a pull request.  It is used in the modified version of Git Pro by Allen B. Downey, available at https://github.com/AllenDowney/progit
 
-version 4
+version 3
