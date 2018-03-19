@@ -1,4 +1,4 @@
-ÔªøpThis is a modified version of Walden, and On The Duty Of Civil Disobedience,
+pThis is a modified version of Walden, and On The Duty Of Civil Disobedience,
 by Henry David Thoreau.
 
 The modified version is a collaborative writing project with the new
@@ -140,7 +140,7 @@ Economy
 
 
 When I wrote the following pages, or rather the bulk of them, I lived
-alone, in the woods, a mile or more from any neighbor, in a house which I had built myself, on the damp and chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I struggled to survive there two years, two months and not one day longer. At present I am a sojourner in civilized life once again.
+alone, in the woods, a mile or more from any neighbor, in a house which I had built myself, on the damp and chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I struggled to survive there two years, two months and not one day longer. At present I am a sojourner in civilized life once again. I preserved my humbleness, but things can get out of hand at times.
 
 I should not obtrude my affairs so much on the notice of my readers if
 very particular inquiries had not been made by my townsmen concerning
@@ -338,7 +338,7 @@ merely, and in others still are entirely unknown.
 The whole ground of human life seems to some to have been gone over by
 their predecessors, both the heights and the valleys, and all things to
 have been cared for. According to Evelyn, "the wise Solomon prescribed
-ordinances for the very distances of trees; and the Roman pr√¶tors have
+ordinances for the very distances of trees; and the Roman prÊtors have
 decided how often you may go into your neighbor's land to gather the
 acorns which fall on it without trespass, and what share belongs to that
 neighbor." Hippocrates has even left directions how we should cut our
@@ -460,7 +460,7 @@ globe, to barbarous and unhealthy regions, and devote themselves to
 trade for ten or twenty years, in order that they may live--that is,
 keep comfortably warm--and die in New England at last. The luxuriously
 rich are not simply kept comfortably warm, but unnaturally hot; as I
-implied before, they are cooked, of course _√† la mode_.
+implied before, they are cooked, of course _‡ la mode_.
 
 Most of the luxuries, and many of the so-called comforts of life, are
 not only not indispensable, but positive hindrances to the elevation
@@ -725,7 +725,7 @@ suit to do it in; for him the old will do, that has lain dusty in the
 garret for an indeterminate period. Old shoes will serve a hero longer
 than they have served his valet--if a hero ever has a valet--bare feet
 are older than shoes, and he can make them do. Only they who go to
-soir√©es and legislative balls must have new coats, coats to change as
+soirÈes and legislative balls must have new coats, coats to change as
 often as the man changes in them. But if my jacket and trousers, my hat
 and shoes, are fit to worship God in, they will do; will they not? Who
 ever saw his old clothes--his old coat, actually worn out, resolved into
@@ -1004,7 +1004,7 @@ saving their souls, but are perchance bankrupt in a worse sense than
 they who fail honestly. Bankruptcy and repudiation are the springboards
 from which much of our civilization vaults and turns its somersets, but
 the savage stands on the unelastic plank of famine. Yet the Middlesex
-Cattle Show goes off here with _√©clat_ annually, as if all the joints of
+Cattle Show goes off here with _Èclat_ annually, as if all the joints of
 the agricultural machine were suent.
 
 The farmer is endeavoring to solve the problem of a livelihood by a
@@ -1963,7 +1963,7 @@ poor one; the owner always seemed poverty-stricken. Indeed, the more
 you have of such things the poorer you are. Each load looks as if it
 contained the contents of a dozen shanties; and if one shanty is poor,
 this is a dozen times as poor. Pray, for what do we _move_ ever but to
-get rid of our furniture, our _exuvi√¶_: at last to go from this world to
+get rid of our furniture, our _exuviÊ_: at last to go from this world to
 another newly furnished, and leave this to be burned? It is the same as
 if all these traps were buckled to a man's belt, and he could not
 move over the rough country where our lines are cast without dragging
@@ -2477,7 +2477,7 @@ fellows, once for all, As long as possible live free and uncommitted. It
 makes but little difference whether you are committed to a farm or the
 county jail.
 
-Old Cato, whose "De Re Rustic√¢" is my "Cultivator," says--and the only
+Old Cato, whose "De Re Rustic‚" is my "Cultivator," says--and the only
 translation I have seen makes sheer nonsense of the passage--"When you
 think of getting a farm turn it thus in your mind, not to buy greedily;
 nor spare your pains to look at it, and do not think it enough to go
@@ -2922,7 +2922,7 @@ reading, than a university; and though I was beyond the range of the
 ordinary circulating library, I had more than ever come within the
 influence of those books which circulate round the world, whose
 sentences were first written on bark, and are now merely copied from
-time to time on to linen paper. Says the poet M√Ær Camar Udd√Æn Mast,
+time to time on to linen paper. Says the poet MÓr Camar UddÓn Mast,
 "Being seated, to run through the region of the spiritual world; I have
 had this advantage in books. To be intoxicated by a single glass of
 wine; I have experienced this pleasure when I have drunk the liquor of
@@ -2934,7 +2934,7 @@ by the prospect of such reading in future. I read one or two shallow
 books of travel in the intervals of my work, till that employment made
 me ashamed of myself, and I asked where it was then that _I_ lived.
 
-The student may read Homer or √Üschylus in the Greek without danger of
+The student may read Homer or ∆schylus in the Greek without danger of
 dissipation or luxuriousness, for it implies that he in some measure
 emulate their heroes, and consecrate morning hours to their pages. The
 heroic books, even if printed in the character of our mother tongue,
@@ -3031,7 +3031,7 @@ in which they were written must have a very imperfect knowledge of the
 history of the human race; for it is remarkable that no transcript of
 them has ever been made into any modern tongue, unless our civilization
 itself may be regarded as such a transcript. Homer has never yet been
-printed in English, nor √Üschylus, nor Virgil even--works as refined, as
+printed in English, nor ∆schylus, nor Virgil even--works as refined, as
 solidly done, and as beautiful almost as the morning itself; for
 later writers, say what we will of their genius, have rarely, if ever,
 equalled the elaborate beauty and finish and the lifelong and heroic
@@ -3793,7 +3793,7 @@ Yet I experienced sometimes that the most sweet and tender, the most
 innocent and encouraging society may be found in any natural object,
 even for the poor misanthrope and most melancholy man. There can be no
 very black melancholy to him who lives in the midst of Nature and has
-his senses still. There was never yet such a storm but it was √Üolian
+his senses still. There was never yet such a storm but it was ∆olian
 music to a healthy and innocent ear. Nothing can rightly compel a simple
 and brave man to a vulgar sadness. While I enjoy the friendship of the
 seasons I trust that nothing can make life a burden to me. The gentle
@@ -4016,7 +4016,7 @@ shops, for the benefit of those who have lost their subscription ticket
 to morning time in this world. But remember, it will not keep quite till
 noonday even in the coolest cellar, but drive out the stopples long
 ere that and follow westward the steps of Aurora. I am no worshipper of
-Hygeia, who was the daughter of that old herb-doctor √Üsculapius, and
+Hygeia, who was the daughter of that old herb-doctor ∆sculapius, and
 who is represented on monuments holding a serpent in one hand, and in
 the other a cup out of which the serpent sometimes drinks; but rather
 of Hebe, cup-bearer to Jupiter, who was the daughter of Juno and wild
@@ -4111,7 +4111,7 @@ scenes. I should be proud to have for the motto of my cabin those lines
 of Spenser which one of my visitors inscribed on a yellow walnut leaf
 for a card:--
 
-       "Arriv√®d there, the little house they fill,
+       "ArrivËd there, the little house they fill,
            Ne looke for entertainment where none was;
         Rest is their feast, and all things at their will:
            The noblest mind the best contentment has."
@@ -4167,7 +4167,7 @@ countenance.--"Why are you in tears, Patroclus, like a young girl?"--
 
       "Or have you alone heard some news from Phthia?
        They say that Menoetius lives yet, son of Actor,
-       And Peleus lives, son of √Üacus, among the Myrmidons,
+       And Peleus lives, son of ∆acus, among the Myrmidons,
        Either of whom having died, we should greatly grieve."
 
 He says, "That's good." He has a great bundle of white oak bark under
@@ -4988,7 +4988,7 @@ Occasionally, after my hoeing was done for the day, I joined some
 impatient companion who had been fishing on the pond since morning,
 as silent and motionless as a duck or a floating leaf, and, after
 practising various kinds of philosophy, had concluded commonly, by the
-time I arrived, that he belonged to the ancient sect of C√¶nobites.
+time I arrived, that he belonged to the ancient sect of CÊnobites.
 There was one older man, an excellent fisher and skilled in all kinds of
 woodcraft, who was pleased to look upon my house as a building erected
 for the convenience of fishermen; and I was equally pleased when he sat
@@ -5257,10 +5257,10 @@ as any, if not the best, in the town. In the winter, all water which is
 exposed to the air is colder than springs and wells which are protected
 from it. The temperature of the pond water which had stood in the room
 where I sat from five o'clock in the afternoon till noon the next day,
-the sixth of March, 1846, the thermometer having been up to 65¬∫ or 70¬∫
-some of the time, owing partly to the sun on the roof, was 42¬∫, or one
+the sixth of March, 1846, the thermometer having been up to 65∫ or 70∫
+some of the time, owing partly to the sun on the roof, was 42∫, or one
 degree colder than the water of one of the coldest wells in the village
-just drawn. The temperature of the Boiling Spring the same day was 45¬∫,
+just drawn. The temperature of the Boiling Spring the same day was 45∫,
 or the warmest of any water tried, though it is the coldest that I know
 of in summer, when, beside, shallow and stagnant surface water is not
 mingled with it. Moreover, in summer, Walden never becomes so warm as
@@ -6125,7 +6125,7 @@ animal food, and from much food of any kind. It is a significant fact,
 stated by entomologists--I find it in Kirby and Spence--that "some
 insects in their perfect state, though furnished with organs of feeding,
 make no use of them"; and they lay it down as "a general rule, that
-almost all insects in this state eat much less than in that of larv√¶.
+almost all insects in this state eat much less than in that of larvÊ.
 The voracious caterpillar when transformed into a butterfly... and the
 gluttonous maggot when become a fly" content themselves with a drop or
 two of honey or some other sweet liquid. The abdomen under the wings
@@ -6437,7 +6437,7 @@ last I held still a piece of cheese between my thumb and finger, it came
 and nibbled it, sitting in my hand, and afterward cleaned its face and
 paws, like a fly, and walked away.
 
-A ph≈ìbe soon built in my shed, and a robin for protection in a pine
+A phúbe soon built in my shed, and a robin for protection in a pine
 which grew against the house. In June the partridge (_Tetrao umbellus_),
 which is so shy a bird, led her brood past my windows, from the woods in
 the rear to the front of my house, clucking and calling to them like a
@@ -6588,7 +6588,7 @@ carnage, of a human battle before my door.
 
 Kirby and Spence tell us that the battles of ants have long been
 celebrated and the date of them recorded, though they say that Huber
-is the only modern author who appears to have witnessed them. "√Üneas
+is the only modern author who appears to have witnessed them. "∆neas
 Sylvius," say they, "after giving a very circumstantial account of one
 contested with great obstinacy by a great and small species on the trunk
 of a pear tree," adds that "this action was fought in the pontificate
@@ -7803,7 +7803,7 @@ heard a pack of hounds threading all the woods with hounding cry and
 yelp, unable to resist the instinct of the chase, and the note of the
 hunting-horn at intervals, proving that man was in the rear. The woods
 ring again, and yet no fox bursts forth on to the open level of the
-pond, nor following pack pursuing their Act√¶on. And perhaps at evening
+pond, nor following pack pursuing their ActÊon. And perhaps at evening
 I see the hunters returning with a single brush trailing from their
 sleigh for a trophy, seeking their inn. They tell me that if the fox
 would remain in the bosom of the frozen earth he would be safe, or if he
@@ -8409,9 +8409,9 @@ changes of temperature. A severe cold of a few days' duration in
 March may very much retard the opening of the former ponds, while the
 temperature of Walden increases almost uninterruptedly. A thermometer
 thrust into the middle of Walden on the 6th of March, 1847, stood at
-32¬∫, or freezing point; near the shore at 33¬∫; in the middle of Flint's
-Pond, the same day, at 32¬∫; at a dozen rods from the shore, in shallow
-water, under ice a foot thick, at 36¬∫. This difference of three and a
+32∫, or freezing point; near the shore at 33∫; in the middle of Flint's
+Pond, the same day, at 32∫; at a dozen rods from the shore, in shallow
+water, under ice a foot thick, at 36∫. This difference of three and a
 half degrees between the temperature of the deep water and the shallow
 in the latter pond, and the fact that a great proportion of it is
 comparatively shallow, show why it should break up so much sooner than
@@ -8597,7 +8597,7 @@ inwardly. The atoms have already learned this law, and are pregnant by
 it. The overhanging leaf sees here its prototype. _Internally_, whether
 in the globe or animal body, it is a moist thick _lobe_, a word especially
 applicable to the liver and lungs and the leaves of fat
-(Œ≥Œµ·º±Œ≤œâ, _labor_, _lapsus_, to flow or slip downward, a lapsing; ŒªŒøŒ≤·ΩÅœÇ,
+(?????, _labor_, _lapsus_, to flow or slip downward, a lapsing; ?????,
 _globus_, lobe, globe; also lap, flap, and many other words); _externally_
 a dry thin _leaf_, even as the _f_ and _v_ are a pressed and dried _b_.
 The radicals of _lobe_ are _lb_, the soft mass of the _b_ (single lobed,
@@ -8807,7 +8807,7 @@ Golden Age.--
   "Eurus ad Auroram Nabathaeaque regna recessit,
    Persidaque, et radiis juga subdita matutinis."
 
-  "The East-Wind withdrew to Aurora and the Nabath√¶n kingdom,
+  "The East-Wind withdrew to Aurora and the NabathÊn kingdom,
    And the Persian, and the ridges placed under the morning rays.
                         . . . . . . .
    Man was born.  Whether that Artificer of things,
@@ -8948,7 +8948,7 @@ breaking through mists and shining faintly on the hillsides here and
 there. On the third or fourth of May I saw a loon in the pond, and
 during the first week of the month I heard the whip-poor-will, the brown
 thrasher, the veery, the wood pewee, the chewink, and other birds. I had
-heard the wood thrush long before. The ph≈ìbe had already come once more
+heard the wood thrush long before. The phúbe had already come once more
 and looked in at my door and window, to see if my house was cavern-like
 enough for her, sustaining herself on humming wings with clinched
 talons, as if she held by the air, while she surveyed the premises.
@@ -9796,11 +9796,11 @@ the "means" are increased. The best thing a man can do for his culture
 when he is rich is to endeavor to carry out those schemes which he
 entertained when he was poor. Christ answered the Herodians according to
 their condition. "Show me the tribute-money," said he;--and one took a
-penny out of his pocket;--if you use money which has the image of C√¶sar
+penny out of his pocket;--if you use money which has the image of CÊsar
 on it, and which he has made current and valuable, that is, _if you
-are men of the State_, and gladly enjoy the advantages of C√¶sar's
+are men of the State_, and gladly enjoy the advantages of CÊsar's
 government, then pay him back some of his own when he demands it;
-"Render therefore to C√¶sar that which is C√¶sar's, and to God those
+"Render therefore to CÊsar that which is CÊsar's, and to God those
 things which are God's"--leaving them no wiser than before as to which
 was which; for they did not wish to know.
 
