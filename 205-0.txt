@@ -1,4 +1,4 @@
-﻿pThis is a modified version of Walden, and On The Duty Of Civil Disobedience,
+﻿This is a modified version of Walden, and On The Duty Of Civil Disobedience,
 by Henry David Thoreau.
 
 The modified version is a collaborative writing project with the new
@@ -12,7 +12,7 @@ https://github.com/AllenDowney/blair-walden-project
 It is used as a training exercise in this book:
 https://github.com/AllenDowney/progit
 
-This modified version is available under the terms of the 
+This modified version is available under the terms of the
 Project Gutenberg License included at the end of the book
 or online at www.gutenberg.org
 
@@ -128,9 +128,9 @@ Preface
 Ralph Waldo Emerson had heard the stories about the woods around
 Walden Pond, so when his good friend asked for permission to build a
 cabin on Emerson's land, miles* from the nearest outpost of civilization,
-he was afraid to be honest. Very afraid. So Very Afraid.
+he was afraid to be honest. Very afraid.
 
-But it's not easy to say no to Henry David Thoreau.  
+But it's not easy to say no to Henry David Thoreau.
 
 
 * About two miles.
@@ -359,10 +359,11 @@ the various mansions of the universe are contemplating the same one at
 the same moment! Nature and human life are as various as our several
 constitutions. Who shall say what prospect life offers to another? Could
 a greater miracle take place than for us to look through each other's
-eyes for an instant? We should live in all the ages of the world in an
-hour; ay, in all the worlds of the ages. History, Poetry, Mythology!--I
-know of no reading of another's experience so startling and informing as
-this would be. 
+eyes for an instant? We should not be afraid to open the door
+to our soul. A brief moment only. We should live in all the ages of the
+world in an hour; ay, in all the worlds of the ages. History, Poetry,
+Mythology!--I know of no reading of another's experience so startling and 
+informing as this would be.
 
 If I repent of anything, it is very likely to be my good
 behavior. What demon possessed me? I hear an irresistible voice which invites me
@@ -662,8 +663,8 @@ time to time, to know how you stand. It is a labor to task the faculties
 of a man--such problems of profit and loss, of interest, of tare and
 tret, and gauging of all kinds in it, as demand a universal knowledge.
 
-I have thought that Walden Pond would be a good place for kidnapping and 
-killing,not solely on account of the railroad and the ice trade; it offers
+I have thought that Walden Pond would be a good place for kidnapping and
+killing, not solely on account of the railroad and the ice trade; it offers
 advantages which it may not be good policy to divulge; it is a good port
 and a good foundation. No Neva marshes to be filled; though you must
 everywhere build on piles of your own driving. It is said that a
@@ -826,8 +827,8 @@ may get clothing. The condition of the operatives is becoming every day
 more like that of the English; and it cannot be wondered at, since,
 as far as I have heard or observed, the principal object is, not
 that mankind may be well and honestly clad, but, unquestionably, that
-corporations may be enriched. In the long run all men perish, but 
-while their lives endure, men hit only what they aim at. Therefore, though 
+corporations may be enriched. In the long run all men perish, but
+while their lives endure, men hit only what they aim at. Therefore, though
 they should fail immediately, they had better aim at something high.
 
 As for a Shelter, I will not deny that this is now a necessary of
@@ -1360,11 +1361,10 @@ entertainment, in fact answered the same purpose as the Iliad.
        *       *       *       *       *
 
 It would be worth the while to build still more deliberately than I did,
-considering, for instance, what foundation a door, a window, a cellar, a panic room, 
+considering, for instance, what foundation a door, a window, a cellar,
 a garret, have in the nature of man, and perchance never raising any
 superstructure until we found a better reason for it than our temporal
-necessities even. This reason, however, could be that of great need or even great fear.
-There is some of the same fitness in a man's building
+necessities even. There is some of the same fitness in a man's building
 his own house that there is in a bird's building its own nest. Who
 knows but if men constructed their dwellings with their own hands, and
 provided food for themselves and families simply and honestly enough,
@@ -1753,7 +1753,7 @@ what was on hand at the last date--was
     Lard.....................  0.65
     Apples...................  0.25
     Dried apple..............  0.22
-    Box of nails.............  0.20  Suitable breakfast 
+    Box of nails.............  0.20  Suitable breakfast
     Sweet potatoes...........  0.10
     One pumpkin..............  0.06
     One watermelon...........  0.02
@@ -1938,8 +1938,8 @@ There is another class of unbelievers who sometimes ask me such
 questions as, if I think I will survive these woods. In the same gist
 I am accustomed to answer with confidence that I will succeed, but the
 more nights which I spend alone in this place, the stranger it seems,
-and the more I wonder if I shouldn't have heeded their warnings. The 
-earth around my home is always being stirred up, but not in a pattern 
+and the more I wonder if I shouldn't have heeded their warnings. The
+earth around my home is always being stirred up, but not in a pattern
 typical of animal nor man. My garden is trampled some nights. Perhaps
 it is a prank of the village children the next town off.
 
@@ -2073,12 +2073,12 @@ that I might by that time be doing what is called a good business. When
 formerly I was looking about to see what I could do for a living, some
 sad experience in conforming to the wishes of friends being fresh in
 my mind to tax my ingenuity, I thought often and seriously of picking
-bones out of the dank ground; that surely I could do, and its small profits might
+huckleberries; that surely I could do, and its small profits might
 suffice--for my greatest skill has been to want but little--so little
 capital it required, so little distraction from my wonted moods, I
 foolishly thought. While my acquaintances went unhesitatingly into trade
 or the professions, I contemplated this occupation as most like theirs;
-ranging the hills all summer to pick the bones which came in my way,
+ranging the hills all summer to pick the berries which came in my way,
 and thereafter carelessly dispose of them; so, to keep the flocks of
 Admetus. I also dreamed that I might gather the wild herbs, or carry
 evergreens to such villagers as loved to be reminded of the woods, even
@@ -3585,7 +3585,7 @@ is the magic and charm of it. It is not merely a repetition of what was
 worth repeating in the bell, but partly the voice of the wood; the same
 trivial words and notes sung by a wood-nymph.
 
-At evening, the distant cry of some creature in the horizon beyond the 
+At evening, the distant cry of some creature in the horizon beyond the
 trees echos cold and alluring, and at first I would mistake it for
 the voices of certain people who I have known in the past, who
 might be straying over hill and dale; but soon I was not unpleasantly
@@ -3761,7 +3761,7 @@ slight trace left, as a flower dropped, or a bunch of grass plucked and
 thrown away, even as far off as the railroad, half a mile distant, or by
 the lingering odor of a cigar or pipe. Nay, I was frequently notified of
 the passage of a traveller along the highway sixty rods off by the scent
-of his pipe. 
+of his pipe.
 
 However, the oddness of artifacts left by my visitors has grown as of late. I find discarded items that appear ancient, seeming to belong to children of a time long ago. A layer of dust still remains on them, having not been disturbed at all by their transport to my doorstop. I do not think too much of the oddities, but my hair stands on end every time I arrive to another one of those 'gifts' left behind.
 
@@ -5166,7 +5166,7 @@ even where a thick wood has just been cut down on the shore, a narrow
 shelf-like path in the steep hillside, alternately rising and falling,
 approaching and receding from the water's edge, as old probably as the
 race of man here, worn by the feet of aboriginal hunters, and still from
-time to time unwittingly trodden by the present occupants of the land. Indeed, I have often seen dark-clad figures traversing this path by twilight; mayhaps lost travellers, who, deprived of their paved paths and cart-torn roads, have fallen back onto the trails of their ancestors. 
+time to time unwittingly trodden by the present occupants of the land. Indeed, I have often seen dark-clad figures traversing this path by twilight; mayhaps lost travellers, who, deprived of their paved paths and cart-torn roads, have fallen back onto the trails of their ancestors.
 This is particularly distinct to one standing on the middle of the pond
 in winter, just after a light snow has fallen, appearing as a clear
 undulating white line, unobscured by weeds and twigs, and very obvious
@@ -6836,22 +6836,22 @@ read the name of Nebuchadnezzar on them, I picked out as many fireplace
 bricks as I could find, to save work and waste, and I filled the spaces
 between the bricks about the fireplace with stones from the pond shore,
 and also made my mortar with the white sand from the same place. I
-lingered most about the fireplace, as the most vital part of the house. 
+lingered most about the fireplace, as the most vital part of the house.
 There I felt truly warm, watching the flickering light that would throw
-shadows behind me, none the wiser to what may be happening in the 
+shadows behind me, none the wiser to what may be happening in the
 darknessoutside my window. Indeed, I worked so deliberately, that though
-I commenced at the ground in the morning, a course of bricks raised a 
-few inches above the floor served for my pillow at night; yet I did not 
-get a stiff neck for it that I remember; my stiff neck is of older date. 
-I took a poet to board for a fortnight about those times, which caused me 
-to be put to it for room. He brought his own knife, though I had two, and 
-we used to scour them by thrusting them into the earth. He shared with me 
-the labors of cooking. I was pleased to see my work rising so square and 
-solid by degrees, and reflected, that, if it proceeded slowly, it was 
-calculated to endure a long time. The chimney is to some extent an 
-independent structure, standing on the ground, and rising through the 
-house to the heavens; even after the house is burned it still stands 
-sometimes, and its importance and independence are apparent. This was 
+I commenced at the ground in the morning, a course of bricks raised a
+few inches above the floor served for my pillow at night; yet I did not
+get a stiff neck for it that I remember; my stiff neck is of older date.
+I took a poet to board for a fortnight about those times, which caused me
+to be put to it for room. He brought his own knife, though I had two, and
+we used to scour them by thrusting them into the earth. He shared with me
+the labors of cooking. I was pleased to see my work rising so square and
+solid by degrees, and reflected, that, if it proceeded slowly, it was
+calculated to endure a long time. The chimney is to some extent an
+independent structure, standing on the ground, and rising through the
+house to the heavens; even after the house is burned it still stands
+sometimes, and its importance and independence are apparent. This was
 toward the end of summer. It was now November.
 
        *       *       *       *       *
@@ -6922,8 +6922,8 @@ eighths of it, shut up in a particular cell, and told to make yourself
 at home there--in solitary confinement. Nowadays the host does not
 admit you to _his_ hearth, but has got the mason to build one for yourself
 somewhere in his alley, and hospitality is the art of _keeping_ you at the
-greatest distance, for there are always many secrets to hide. There is as much secrecy about the cooking as if he
-had a design to poison you. There are always strange sounds in the night explained away by the wind. I am aware that I have been on many a man's
+greatest distance. There is as much secrecy about the cooking as if he
+had a design to poison you. I am aware that I have been on many a man's
 premises, and might have been legally ordered off, but I am not aware
 that I have been in many men's houses. I might visit in my old clothes a
 king and queen who lived simply in such a house as I have described, if
@@ -7315,7 +7315,7 @@ then men saluted one another, and heard and told the news, and went
 their ways again.
 
 Breed's hut was standing only a dozen years ago, though it had long
-been unoccupied. It was about the size of mine. It was set on fire 
+been unoccupied. It was about the size of mine. It was set on fire
 one Election night, if I do not mistake. I lived on
 the edge of the village then, and had just lost myself over Davenant's
 "Gondibert," that winter that I labored with a lethargy--which, by the
@@ -7355,16 +7355,16 @@ powder."
 
 It chanced that I walked that way across the fields the following night,
 about the same hour, and hearing a low moaning at this spot, I drew near
-in the dark, and thought I glimpsed the only survivor of the family that I 
-know. He was the heir of both its virtues and its vices, who alone might have 
-been interested in this burning. As I watched, I saw him lying on his stomach 
-and looking over the cellar wall at the still smouldering cinders beneath, muttering 
-to himself, as is his wont. He gazed into the cellar, observing it from all sides and 
-points of view by turns, always lying down to it, as if there was some treasure, which 
-he remembered, concealed between the stones, where there was absolutely nothing but a 
-heap of bricks and ashes. The house being gone, he looked at what there was left. He 
-groped long about the wall, presumably to find the well-sweep which his father had cut 
-and mounted, feeling for the iron hook or staple by which a burden had been fastened to 
+in the dark, and thought I glimpsed the only survivor of the family that I
+know. He was the heir of both its virtues and its vices, who alone might have
+been interested in this burning. As I watched, I saw him lying on his stomach
+and looking over the cellar wall at the still smouldering cinders beneath, muttering
+to himself, as is his wont. He gazed into the cellar, observing it from all sides and
+points of view by turns, always lying down to it, as if there was some treasure, which
+he remembered, concealed between the stones, where there was absolutely nothing but a
+heap of bricks and ashes. The house being gone, he looked at what there was left. He
+groped long about the wall, presumably to find the well-sweep which his father had cut
+and mounted, feeling for the iron hook or staple by which a burden had been fastened to
 the heavy end--all that he could now cling to.
 
 Once more, on the left, where are seen the well and lilac bushes by the
@@ -8266,7 +8266,7 @@ through the favoring winter air, to wintry cellars, to underlie the
 summer there. It looks like solidified azure, as, far off, it is drawn
 through the streets. These ice-cutters are a merry race, full of jest
 and sport, and when I went among them they were wont to invite me to saw
-pit-fashion with them, I standing underneath. I watched as the ice-cutters bore through the icy force like lovers seeking to mine the frozen hearts of their beloved, undeterred by the wind that struck me like knives. I preferred the cabin and fire. 
+pit-fashion with them, I standing underneath. I watched as the ice-cutters bore through the icy force like lovers seeking to mine the frozen hearts of their beloved, undeterred by the wind that struck me like knives. I preferred the cabin and fire.
 
 In the winter of '46-7 there came a hundred men of Hyperborean
 extraction swoop down on to our pond one morning, with many carloads
@@ -8351,7 +8351,7 @@ interesting subject for contemplation. They told me that they had some
 in the ice-houses at Fresh Pond five years old which was as good as
 ever. Why is it that a bucket of water soon becomes putrid, but frozen
 remains sweet forever? It is commonly said that this is the difference
-between the affections and the intellect. 
+between the affections and the intellect.
 
 Thus for sixteen days I saw from my window a hundred men at work like
 busy husbandmen, with teams and horses and apparently all the implements
@@ -8473,7 +8473,7 @@ thick-skinned a thing to be so sensitive? Yet it has its law to which
 it thunders obedience when it should as surely as the buds expand in the
 spring. The earth is all alive and covered with papillae. The largest
 pond is as sensitive to atmospheric changes as the globule of mercury in
-its tube. Every sound and creature listened to the whisperings of the ground. 
+its tube. Every sound and creature listened to the whisperings of the ground.
 
 One attraction in coming to the woods to live was that I should have
 leisure and opportunity to see the Spring come in. The ice in the pond
@@ -9414,8 +9414,8 @@ those mischievous persons who put obstructions on the railroads.
 
 But, to speak practically and as a citizen, unlike those who call
 themselves no-government men, I ask for, not at once no government,
-but a government fair to everyone. Let every man be treated equally and have no more than his neighbor; Let every man not have the power to corrupt or work simply for his means; Let every man have a 
-government worthy of his respect, in that it serves him and his neighbors in the equal fair life. 
+but a government fair to everyone. Let every man be treated equally and have no more than his neighbor; Let every man not have the power to corrupt or work simply for his means; Let every man have a
+government worthy of his respect, in that it serves him and his neighbors in the equal fair life.
 
 After all, the practical reason why, when the power is once in the hands
 of the people, a majority are permitted, and for a long period continue,
@@ -9915,7 +9915,7 @@ he had probably gone to bed in a barn when drunk, and smoked his pipe
 there; and so a barn was burnt - along with, as I would later discover,
 everything of his mortal presence but his ghost. He had the reputation of
 being a clever man, had been there some three months waiting for his trial
-to come on, and would have to wait as much longer; but he was quite 
+to come on, and would have to wait as much longer; but he was quite
 domesticated and contented, since he got his board for nothing, and thought
 that he was well treated.
 
@@ -9949,7 +9949,7 @@ view of my native town. I was fairly inside of it. I never had seen its
 institutions before. This is one of its peculiar institutions; for it is
 a shire town. I began to comprehend what its inhabitants were about.
 
-Night fell. And I noticed. Silence. Waves crash upon the land, a disconect between reality and dreaming. Silver birds and miliarty marches slam in to the calm serenity of my home. Dogs bark, children cry. The world tilts on it's side as tears fall from my face to the floor. The sky has turned a red that oozes from my skin and populates the land. I don't now where I am. I don't know who I've been. A tree falls in the forest. Oh, and I am here to hear it. They always make sound. So much sound, that it defens the heart and rips the soul in two. There is a cause and effect for all actions. All actions. When you breath, you move the air around your body. When you clap your hands, others hear. When you bring a knife down on flesh, blood is spilt. The world is one big effect from causes of the past. Leading us to be without effect on the world we are surrounded by.Without my cause the sky will turn to dark blue, dark,Empty. But I am not alone. I have myself. And the lake. And the trees.They always make a sound. 
+Night fell. And I noticed. Silence. Waves crash upon the land, a disconect between reality and dreaming. Silver birds and miliarty marches slam in to the calm serenity of my home. Dogs bark, children cry. The world tilts on it's side as tears fall from my face to the floor. The sky has turned a red that oozes from my skin and populates the land. I don't now where I am. I don't know who I've been. A tree falls in the forest. Oh, and I am here to hear it. They always make sound. So much sound, that it defens the heart and rips the soul in two. There is a cause and effect for all actions. All actions. When you breath, you move the air around your body. When you clap your hands, others hear. When you bring a knife down on flesh, blood is spilt. The world is one big effect from causes of the past. Leading us to be without effect on the world we are surrounded by.Without my cause the sky will turn to dark blue, dark,Empty. But I am not alone. I have myself. And the lake. And the trees.They always make a sound.
 
 In the morning, our breakfasts were put through the hole in the door,
 in small oblong-square tin pans, made to fit, and holding a pint of
