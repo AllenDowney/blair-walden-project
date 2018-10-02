@@ -4,7 +4,7 @@ by Henry David Thoreau.
 The modified version is a collaborative writing project with the new
 title
 
-The Blair Walden Project
+^The Blair Walden Project
 
 This project is maintained by Allen B. Downey and stored at
 https://github.com/AllenDowney/blair-walden-project
@@ -293,7 +293,8 @@ go into the desperate country, and have to console yourself with the
 bravery of minks and muskrats. A conscious despair
 is concealed under what are called the games and amusements of
 mankind. There is no play in them, for this comes after work. But it is
-a characteristic of wisdom not to do desperate things.
+a characteristic of wisdom not to do desperate things. Then again, wisdom
+has never been one of mankind's strengths.
 
 When we consider what, to use the words of the catechism, is the chief
 end of life, and what are the true necessaries and means of surviving, it
@@ -441,12 +442,13 @@ bodies by addition from without--Shelter and Clothing also serve only to
 retain the heat thus generated and absorbed.
 
 The grand necessity, then, for our bodies, is to keep warm, to keep
-the vital heat in us. What pains we accordingly take, not only with
-our Food, and Clothing, and Shelter, but with our beds, which are our
-night-clothes, robbing the nests and breasts of birds to prepare this
-shelter within a shelter, as the mole has its bed of grass and leaves at
-the end of its burrow! The poor man is wont to complain that this is a
-cold world; and to cold, no less physical than social, we refer directly
+the vital heat in us. This heat not only keeps our bodies alive and well,
+but prepares us from the cold world clawing at us from all sides. What pains we 
+accordingly take, not only with our Food, and Clothing, and Shelter, but with 
+our beds, which are our night-clothes, robbing the nests and breasts of birds 
+to prepare this shelter within a shelter, as the mole has its bed of grass and 
+leaves at the end of its burrow! The poor man is wont to complain that this 
+is a cold world; and to cold, no less physical than social, we refer directly
 a great part of our ails. The summer, in some climates, makes possible
 to man a sort of Elysian life. Fuel, except to cook his Food, is
 then unnecessary; the sun is his fire, and many of the fruits are
